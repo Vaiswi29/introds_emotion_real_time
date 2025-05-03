@@ -1,0 +1,53 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+# Virtual environment
+venv310/
+
+# Environment variables
+.env
+.env.*
+
+# Dependency files
+*.lock
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ignore requirements.txt if specified
+requirements.txt
