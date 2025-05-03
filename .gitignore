@@ -50,4 +50,4 @@ dist/
 .eggs/
 
 # Ignore requirements.txt if specified
-requirements.txt
+requirements.txtdata.txt
